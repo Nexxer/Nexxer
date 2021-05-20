@@ -2,7 +2,7 @@
 
 <h2 align="center">Hi 👋. I'm Igor - Front-end developer.</h2>
 
-- 🌱 🌱 I’m currently learning **React, TypeScript**
+- 🌱 I’m currently learning **React, TypeScript**
 
 - 👯 I am looking for a job in a company **where I will solve interesting problems and gain new knowledge and skills in what I love**
 
